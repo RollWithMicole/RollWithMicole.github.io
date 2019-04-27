@@ -72,19 +72,19 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-# rss: false
+  rss: "false"
   email: "rollwithmicole@gmail.com"
-  facebook: rollwithmicole
+  facebook: "rollwithmicole"
 # github: daattali
-  twitter: rollwithmicole
+  twitter: "rollwithmicole"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: rollwithmicole
-  youtube: UCVJE7RxykPYf0u5mId3MT2w
+   instagram: "rollwithmicole"
+  youtube: "UCVJE7RxykPYf0u5mId3MT2w"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
