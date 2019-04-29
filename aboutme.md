@@ -4,7 +4,7 @@ title: About me
 subtitle: Preface
 ---
 ## What This is For  
-Everyone has struggles in life, whether on the surface or something deeper inside. Through my struggles I've been fortunate enough to have big dreams and experience the world in a way not everyone can.
+Everyone has struggles in life, whether on the surface or something deeper inside. Despite my struggles, I've been fortunate enough to still have big dreams and experience the world in a way not everyone can.
 
 Although my body functions differently than the average person, I can still enjoy life and use my experiences to help inform and relate to people in a way I wouldn't be able to otherwise.
 
