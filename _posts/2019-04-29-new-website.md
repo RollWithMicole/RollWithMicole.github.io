@@ -1,6 +1,7 @@
 ---
 layout: post
 published: false
+tags: Update
 title: New Website
 ---
 ## Post 1
