@@ -124,7 +124,7 @@ google_analytics: "UA-78163614-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: "rollwithmicole"
+disqus: "rollwithmicole"
 # If you want to use just-comments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
 
