@@ -26,4 +26,4 @@ If you have places you'd like me to try and explore/research, or general tips/qu
   * London
 * I **_don't_** like to fly
 
-
+<iframe src="https://open.spotify.com/embed/user/1236211663/playlist/3KRBts3ON4wCR1FnJEIhrd" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
