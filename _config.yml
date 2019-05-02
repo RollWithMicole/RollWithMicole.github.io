@@ -25,10 +25,10 @@ description: A blog about travel, accessbility, and life.
 navbar-links:
   About Me: "aboutme"
   Rolling in Food:
-    - Blog Posts: "https://rollwithmicole.com/rollinginfood/rollinginfoodindex"
-    - Accessibility Trials and Tribulations
-    - About: "https://rollwithmicole.com/rollinginfood/"
-  Total Archive: "https://rollwithmicole.com/Archive/"
+   - About: "https://rollwithmicole.com/rollinginfood/"
+   - Blog Posts: "https://rollwithmicole.com/rollinginfood/rollinginfoodindex"
+    #- Accessibility Trials and Tribulations
+  Archive: "https://rollwithmicole.com/Archive/"
   Contact Me: "https://rollwithmicole.com/contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
