@@ -25,7 +25,7 @@ description: A blog about travel, accessbility, and life.
 navbar-links:
   About Me: "aboutme"
   Pages:
-    - Travel/Accessible Travel Index
+    - Archive: "https://rollwithmicole.com/Archive/"
     - Accessibility Trials and Tribulations
     - Rolling in Food: "https://rollwithmicole.com/rollinginfood/"
   Contact Me: "https://rollwithmicole.com/contact"
