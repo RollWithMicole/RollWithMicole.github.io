@@ -24,7 +24,9 @@ If you have places you'd like me to try and explore/research, or general tips/qu
   * Australia
   * Hong Kong
   * London
-* I **_don't_** like to fly
+* I **_don't_** like to fly  
+
+### Here is some music I'm listening to now and a road trip playlist:
 
 <iframe src="https://open.spotify.com/embed/user/1236211663/playlist/3KRBts3ON4wCR1FnJEIhrd" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/user/1236211663/playlist/559vCvh8Zw3axezrKI2V8Q" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
