@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post. New Website.
+title: Hello.
 ---
 
 Back in 2016 I started my first travel blog under the same name as this one. Unfortunately due to health reasons I had to take a step back, and then didn’t pick it back up for awhile. But with this new site I’m going to be writing about my travels again.
