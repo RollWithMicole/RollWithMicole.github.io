@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Rolling in Food:
    - About: "https://rollwithmicole.com/rollinginfood/"
-   - Blog Posts: "https://rollwithmicole.com/rollinginfood/rollinginfoodindex"
+   - Posts: "https://rollwithmicole.com/rollinginfood/rollinginfoodindex"
     #- Accessibility Trials and Tribulations
   Archive: "https://rollwithmicole.com/Archive/"
   Contact Me: "https://rollwithmicole.com/contact"
