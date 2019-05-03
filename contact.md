@@ -7,6 +7,7 @@ Email: rollwithmicole@gmail.com
 Twitter: [@rollwithmicole](https://twitter.com/rollwithmicole)  
 Instagram: [rollwithmicole](https://www.instagram.com/rollwithmicole/)  
 Pinterest: [rollwithmicole](https://www.pinterest.com/rollwithmicole/)  
+Yelp: [rollwithmicole](https://rollwithmicole.yelp.com/)  
 Foursquare: [rollwithmicole](https://foursquare.com/rollwithmicole)  
 Tumblr: [rollwithmicole](https://rollwithmicole.tumblr.com/)
 
