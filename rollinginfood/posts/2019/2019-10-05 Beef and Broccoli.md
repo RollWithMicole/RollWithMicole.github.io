@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: Beef and Broccoli
+subtitle: Keto Friendly Version of a Chinese Dish
 ---
 <center><img src="/img/rollinginfood/2019/May/DSCF3625.JPG" width="350"></center>
 
