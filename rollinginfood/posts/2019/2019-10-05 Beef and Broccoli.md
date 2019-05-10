@@ -2,7 +2,7 @@
 layout: post
 title: Beef and Broccoli
 ---
-<img src="/img/rollinginfood/2019/May/DSCF3625.JPG" width="350">
+<center><img src="/img/rollinginfood/2019/May/DSCF3625.JPG" width="350"></center>
 
 Growing up a lot of my friends favorite food was Chinese takeout, but it was something I rarely enjoyed that much. I know this is because I was fortunate enough to experience authentic Chinese food in Chinatown for family dinners and my mom cooked fresh Chinese food at home. I enjoyed dishes like whole steamed fish and fresh dumplings. I didn’t like a lot of sauce either, preferring the natural flavors of the meat to come through. But two of the dishes I did enjoy from takeout were Beef and Broccoli, and Crab Rangoon. We made some keto friendly versions tonight.  
 
