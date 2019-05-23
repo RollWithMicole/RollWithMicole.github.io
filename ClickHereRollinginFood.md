@@ -1,6 +1,6 @@
 ---
 layout: page
-titile: @rollinginfood
+title: @rollinginfood
 ---
 <center>
 <br>
